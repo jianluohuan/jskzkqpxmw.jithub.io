@@ -1,0 +1,576 @@
+
+ Exception:2023.01.25 12:59:54
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 12:59:54
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 12:59:54
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 12:59:54
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 12:59:54
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 12:59:54
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 14:45:48
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 14:45:49
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 14:45:49
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 14:45:49
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 14:45:49
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.25 14:45:49
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 17:15:09
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 17:15:09
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 17:15:09
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 17:15:09
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 17:15:09
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 17:15:09
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:20:33
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:20:33
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:20:33
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:20:33
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:20:33
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:20:33
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:35:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:35:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:35:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:35:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:35:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 18:35:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 19:09:46
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 19:09:46
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 19:09:46
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 19:09:46
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 19:09:46
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.29 19:09:46
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 10:53:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 10:53:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 10:53:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 10:53:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 10:53:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 10:53:04
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 17:08:02
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 17:08:02
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 17:08:02
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 17:08:02
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 17:08:02
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2023.01.30 17:08:02
+java.lang.NullPointerException: Attempt to read from null array
+	at emo.f.b.b.m.a(Unknown Source:4)
+	at emo.f.b.b.m.a(Unknown Source:10)
+	at emo.f.b.b.i.g(Unknown Source:1835)
+	at emo.f.b.b.i.a(Unknown Source:610)
+	at emo.f.b.b.i.a(Unknown Source:1)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1405)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:230)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
